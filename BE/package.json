@@ -1,0 +1,16 @@
+{
+  "name": "back-end-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"errors: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author":"489",
+  "license":"ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
