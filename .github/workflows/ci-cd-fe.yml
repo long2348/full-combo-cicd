@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_USERNAME: tam019
+  DOCKER_USERNAME: tamtm019
   DOCKER_IMAGE_NAME: solar-app
 
 jobs:
