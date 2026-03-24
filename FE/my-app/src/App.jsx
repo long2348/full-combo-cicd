@@ -3,35 +3,38 @@ import './App.css';
 
 function App() {
   return (
-    <div className="solar-system">
-      <div className="sun-container">
-        <div className="sun"></div>
+    <>
+    <h4>V1.0.1</h4>
+      <div className="solar-system">
+        <div className="sun-container">
+          <div className="sun"></div>
+        </div>
+        <div className="mercury orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="venus orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="earth orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="mars orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="jupiter orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="saturn orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="uranus orbit">
+          <div className="planet"></div>
+        </div>
+        <div className="neptune orbit">
+          <div className="planet"></div>
+        </div>
       </div>
-      <div className="mercury orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="venus orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="earth orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="mars orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="jupiter orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="saturn orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="uranus orbit">
-        <div className="planet"></div>
-      </div>
-      <div className="neptune orbit">
-        <div className="planet"></div>
-      </div>
-    </div>
+    </>
   );
 }
 
