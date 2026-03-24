@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h4>V1.0.1</h4>
+    <h4>V1.0.2</h4>
       <div className="solar-system">
         <div className="sun-container">
           <div className="sun"></div>
