@@ -4,8 +4,9 @@
   box-sizing: border-box;
 }
 
-.h4{
-  color: red;
+.h4-solar-title{
+    color: red;
+    text-align: center;
 }
 
 body {
