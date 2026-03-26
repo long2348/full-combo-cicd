@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-    <h4 className='h4-solar-title'>solar system v1.0.5</h4>
+    <h4 className='h4-solar-title'>solar system v1.0.7</h4>
       <div className="solar-system">
         <div className="sun-container">
           <div className="sun"></div>
